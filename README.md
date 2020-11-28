@@ -1,4 +1,4 @@
-# OpenActive W3C Community Group [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1YLsP4292iBs7jnrHfpUL0MWQEFrGdNaJ?usp=sharing)
+# OpenActive W3C Community Group [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1SFlK8v7JrS7UjOcIdhDeCIJTltx7_Qoa?usp=sharing)
 
 This repository is a monorepo containing content relating to the administration, meetings, and working of the [OpenActive W3C Community Group](https://www.w3.org/community/openactive/).
 
