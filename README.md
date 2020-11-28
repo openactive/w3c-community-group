@@ -4,7 +4,7 @@ This repository is a monorepo containing content relating to the administration,
 
 ## [w3c.openactive.io](./w3c.openactive.io)
 
-The content of the [w3c.openactive.io](https://w3c.openactive.io) microsite is maintained within GitBooks and replicated to the [`./w3c.openactive.io`](./w3c.openactive.io) directory of this repository, where pull requests can be made as normal.
+The content of the [https://w3c.openactive.io](https://w3c.openactive.io) microsite is maintained within GitBooks and replicated to the [`./w3c.openactive.io`](./w3c.openactive.io) directory of this repository, where pull requests can be made as normal.
 
 ## [docs](./docs)
 
