@@ -39,6 +39,10 @@ Actions/Requests:
 * Leigh include guidance on event descriptions in Primer
 * Leigh to put together roadmap for standardising activity lists, to circulate to the group.
 
+## Slides
+
+{% embed url="https://docs.google.com/presentation/d/1nefisEZkxeqUWSZ3QNlND3r8cgDDcd0gkDVUd3y8SAw/edit?usp=sharing" %}
+
 ## Video
 
 {% embed url="https://youtu.be/2rRTKly3ILE" %}

@@ -7,6 +7,10 @@
 * Introduced a proposal for extending the specification
 * Reviewed next steps for activity list
 
+## Slides
+
+{% embed url="https://docs.google.com/presentation/d/163CihtrJ1wR-VhwoZb\_Wfycn-SbbTWntno9qakU1zBY/edit?usp=sharing" %}
+
 ## Video
 
 {% embed url="https://youtu.be/iupOFjSxGlM" %}

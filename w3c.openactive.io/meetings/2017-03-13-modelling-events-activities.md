@@ -22,6 +22,10 @@ Couple of key discussion points and actions:
 
 This would help identify the Who/What/Where/When around events.
 
+## Slides
+
+{% embed url="https://docs.google.com/presentation/d/1Uxdld1ntsctPCcYp6WABz5Td1kD4Uj\_aGg1Yr9NLn34/edit?usp=sharing" %}
+
 ## Video
 
 {% embed url="https://youtu.be/RxDOwAbC5UI" %}

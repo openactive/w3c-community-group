@@ -18,7 +18,7 @@ I plan to send a revised specification out for review by the end of the week.
 
 ## Slides
 
-{% embed url="https://drive.google.com/file/d/0BxSLg1Z0u65WXzZvY3RvMzZwS28/view?usp=sharing" %}
+{% embed url="https://docs.google.com/presentation/d/1haZEcE7lPVJeekrK-zRWli8KXTsbSLLRRpvaE0CcBeU/edit?usp=sharing" %}
 
 ## Video
 

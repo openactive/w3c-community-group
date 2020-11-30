@@ -20,6 +20,10 @@ The types of question I would like to discuss are:
 
 I suspect there's a few more properties we may need in the specification, without getting into the detail of live availability checking, payment methods, making bookings, etc.
 
+## Slides
+
+{% embed url="https://docs.google.com/presentation/d/1mhuXBo1rspWF0sWa3IcELtp4UbiWgjU1TAQXyc56mso/edit?usp=sharing" %}
+
 ## Video
 
 {% embed url="https://youtu.be/9VPnudTDeco" %}

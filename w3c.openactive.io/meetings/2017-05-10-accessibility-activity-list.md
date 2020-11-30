@@ -74,6 +74,10 @@ Based on the discussion, I think that the way forward is to:
 
 There is an early draft of an editorial guide [here](https://docs.google.com/document/d/15-bSByBhoIdckmlh6Dz3J27xQv7OeTYR0qv-OZh_Mls/edit).
 
+## Slides
+
+{% embed url="https://docs.google.com/presentation/d/1a83g2IkCMh9bMhUz04rdAgvZwUg8z4cM2wIngD8kIps/edit?usp=sharing" %}
+
 ## Video
 
 {% embed url="https://youtu.be/fIT3W00pwP4" %}

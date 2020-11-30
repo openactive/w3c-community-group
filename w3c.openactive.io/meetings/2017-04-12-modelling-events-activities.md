@@ -26,6 +26,10 @@ Actions/Requests:
 * Leigh/Jade/Kim/Becky/Nick: coordinate on creating initial version of the list
 * All: provide feedback on the primer and specification
 
+## Slides
+
+{% embed url="https://docs.google.com/presentation/d/1eApKkdzpSMBRWDFbOaP4LChAtNeMqPoU0FEO4ylNi90/edit?usp=sharing" %}
+
 ## Video
 
 {% embed url="https://youtu.be/PQ8kKk2HnZc" %}
