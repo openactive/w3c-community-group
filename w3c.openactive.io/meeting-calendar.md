@@ -7,6 +7,9 @@
 * **07 Oct 2020** Rationalising Schedules
 * **21 Oct 2020**  CANCELLED
 * **04 Nov 2020** Documentation
+* **20 Nov 2020** Accessibility
+* **02 Dec 2020** CANCELLED
+* **16 Dec 2020** Finalising the Dataset API Discovery Specification
 
 ## **Meetings Dial-in Details**
 
