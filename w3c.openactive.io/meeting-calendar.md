@@ -2,14 +2,8 @@
 
 ## Future Agendas
 
-* **09 Sept 2020** Quality Certification and the Dataset Specification
-* **23 Sept 2020** Modelling 1:1 Training
-* **07 Oct 2020** Rationalising Schedules
-* **21 Oct 2020**  CANCELLED
-* **04 Nov 2020** Documentation
-* **20 Nov 2020** Accessibility
-* **02 Dec 2020** CANCELLED
-* **16 Dec 2020** Finalising the Dataset API Discovery Specification
+* **13 Jan 2021** Finalising the Dataset API Discovery Specification \(continued\)
+* **27 Jan 2021** Courses in the Opportunity Model
 
 ## **Meetings Dial-in Details**
 
