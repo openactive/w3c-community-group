@@ -2,8 +2,9 @@
 
 ## Future Agendas
 
-* **13 Jan 2021** Finalising the Dataset API Discovery Specification \(continued\)
-* **27 Jan 2021** Courses in the Opportunity Model
+* **14 July 2021** Phase Four Communication Channels
+* **28 July 2021** Membership and the Open Booking API
+* **11 August 2021** Safeguarding Requirements Gathering
 
 ## **Meetings Dial-in Details**
 
