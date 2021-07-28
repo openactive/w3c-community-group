@@ -3,8 +3,7 @@
 ## Future Agendas
 
 * **14 July 2021** Phase Four Communication Channels
-* **28 July 2021** Membership and the Open Booking API
-* **11 August 2021** Safeguarding Requirements Gathering
+* **4 August 2021** Membership and the Open Booking API
 
 ## **Meetings Dial-in Details**
 
