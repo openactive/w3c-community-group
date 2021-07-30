@@ -1,6 +1,7 @@
 # Table of contents
 
 * [W3C Community](README.md)
+* [2021-07-14 - Phase 4 Technical Communication Channels.](2021-07-14-phase-4-technical-communication-channels..md)
 * [Join the group](https://www.w3.org/community/openactive/)
 * [Upcoming Meetings](meeting-calendar.md)
 * [Key Discussions](key-discussions.md)
