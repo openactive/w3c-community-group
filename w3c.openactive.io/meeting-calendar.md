@@ -3,7 +3,7 @@
 ## Future Agendas
 
 * **14 July 2021** Phase Four Communication Channels
-* **4 August 2021** Membership and the Open Booking API
+* **15 Sept 2021** Membership and the Open Booking API
 
 ## **Meetings Dial-in Details**
 
@@ -20,5 +20,8 @@ Or Telephone: Dial:
 
 ## Meeting Calendar
 
-{% embed url="https://calendar.google.com/calendar/embed?showNav=0&showDate=0&showPrint=0&showTabs=0&showCalendars=0&mode=AGENDA&height=600&wkst=1&bgcolor=%23FFFFFF&src=theodi.org\_lcp83ia9k0a3e81h50sordnut4%40group.calendar.google.com&color=%23333333&ctz=Europe%2FLondon" caption="" %}
+All OpenActive events are publicly accessible via the [OpenActive Google Calendar](https://calendar.google.com/calendar/embed?src=openactive.io_645khi45bjhce06osqdls9u900%40group.calendar.google.com&ctz=Europe%2FLondon).
+
+  
+
 
