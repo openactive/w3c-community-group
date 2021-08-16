@@ -1,7 +1,6 @@
 # Table of contents
 
 * [W3C Community](README.md)
-* [2020-03-11 - Customer authentication continued](2020-03-11-customer-authentication-continued.md)
 * [Join the group](https://www.w3.org/community/openactive/)
 * [Upcoming Meetings](meeting-calendar.md)
 * [Key Discussions](key-discussions.md)
@@ -19,6 +18,7 @@
 * [2020-04-22 - Safeguarding](meetings/2020-04-22-safeguarding.md)
 * [2020-04-08 - Wrapping Up Virtual Events](meetings/2020-04-08-wrapping-up-virtual-events.md)
 * [2020-03-25 - Virtual Events and other COVID-19 proposals](meetings/2020-03-25-virtual-events.md)
+* [2020-03-11 - Customer authentication continued](meetings/2020-03-11-customer-authentication-continued.md)
 * [2020-02-12 - Opportunity Specification Proposals](meetings/2020-02-12-opportunity-specification-proposals.md)
 * [2020-01-29 - Customer Authentication continued](meetings/2020-01-29-customer-authentication-2.md)
 * [2019-12-04 - Safeguarding and HTML support](meetings/2019-12-04-safeguarding-and-html-support.md)
