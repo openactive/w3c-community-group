@@ -1,4 +1,15 @@
 # 2020-05-06 - Revisiting Accessibility
 
-_Call notes, recording, and slides are delayed due to COVID-19 disruption, and will be available on this page soon._
+**Summary**
+
+Revisiting Accessibility
+
+* History
+* Current proposal
+
+**Video**
+
+{% embed url="https://youtu.be/J4drt0arfw0" %}
+
+
 
