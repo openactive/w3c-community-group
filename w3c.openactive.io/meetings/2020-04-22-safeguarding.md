@@ -1,4 +1,16 @@
 # 2020-04-22 - Safeguarding
 
-_Call notes, recording, and slides are delayed due to COVID-19 disruption, and will be available on this page soon._
+_**Summary**_
+
+Revisiting safeguarding
+
+* Initial proposal
+* Feedback so far
+* Revisions
+
+_**Video**_
+
+{% embed url="https://youtu.be/8oQ6nyFHRCY" %}
+
+\_\_
 
