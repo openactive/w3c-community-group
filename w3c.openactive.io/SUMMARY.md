@@ -1,7 +1,6 @@
 # Table of contents
 
 * [W3C Community](README.md)
-* [2020-01-29 - Customer authentication](2020-01-29-customer-authentication.md)
 * [Join the group](https://www.w3.org/community/openactive/)
 * [Upcoming Meetings](meeting-calendar.md)
 * [Key Discussions](key-discussions.md)
