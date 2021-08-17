@@ -1,4 +1,23 @@
 # 2020-06-17 - Improving the RPDE specification
 
-_Call notes, recording, and slides are delayed due to COVID-19 disruption, and will be available on this page soon._
+**Summary**
+
+Improvements to RPDE  
+  
+__- The harvesting model has limitations  
+\* Difficult to gauge progress  
+\* Requirement to harvest from the beginning of time  
+\*Cannot query selectively  
+****- Pagination data  
+- Parameterise the RPDE querystring  
+- Movable first page
+
+**Video**
+
+{% embed url="https://youtu.be/LIEsqGF4zqE" %}
+
+
+
+  
+__
 
