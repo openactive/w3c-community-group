@@ -6,5 +6,7 @@
 
 **Video**
 
-\*\*\*\*[https://youtu.be/mBFNaYhSsqk](https://youtu.be/mBFNaYhSsqk)
+{% embed url="https://youtu.be/mBFNaYhSsqk" %}
+
+
 
