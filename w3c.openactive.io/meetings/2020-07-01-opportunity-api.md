@@ -1,4 +1,15 @@
 # 2020-07-01 - Opportunity API
 
-_Call notes, recording, and slides are delayed due to COVID-19 disruption, and will be available on this page soon._
+**Summary**
+
+The Opportunity API
+
+* Opportunity API original proposal summary 2018
+* Initial Implementation
+
+**Video**
+
+{% embed url="https://youtu.be/ATRe11-EXrc" %}
+
+
 
