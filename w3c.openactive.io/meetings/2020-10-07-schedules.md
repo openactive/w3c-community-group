@@ -2,7 +2,7 @@
 
 ## **Summary**
 
-**Schedules**
+Schedules
 
 * Directly on the event
 * Partial schedule

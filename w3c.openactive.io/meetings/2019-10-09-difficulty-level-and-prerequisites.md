@@ -6,7 +6,7 @@ The purpose of the call was to finalise discussion of standardising the terms us
 
 ## Slides
 
-{% embed url="https://docs.google.com/presentation/d/14whCFAndCPyfz0bSFKZrjdSKYQ8\_AJatxyPz4-dJFkE/edit" %}
+{% embed url="https://docs.google.com/presentation/d/14whCFAndCPyfz0bSFKZrjdSKYQ8\_AJatxyPz4-dJFkE/edit?usp=sharing" %}
 
 ## Video
 

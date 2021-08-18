@@ -1,8 +1,6 @@
 # 2020-03-11 - Customer authentication continued
 
-**Summary**
-
-\*\*\*\*
+## **Summary**
 
 Customer authentication continued;
 
@@ -10,7 +8,11 @@ Customer authentication continued;
 * Use case 2: User account is with seller only
 * User account has both broker and seller accounts
 
-**Video**
+## **Slides**
+
+{% embed url="https://docs.google.com/presentation/d/1Hzy4nMOy8UcXIy9BJJHb\_9eRHkYn-Tq2WTJMSKZ8p-Q/edit?usp=sharing" %}
+
+## **Video**
 
 {% embed url="https://youtu.be/7Kg4JRGnZuQ" %}
 
