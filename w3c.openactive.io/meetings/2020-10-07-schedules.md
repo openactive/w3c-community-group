@@ -1,6 +1,6 @@
 # 2020-10-07 - Schedules
 
-**Summary**
+## **Summary**
 
 **Schedules**
 
@@ -8,7 +8,11 @@
 * Partial schedule
 * Event schedule
 
-**Video**
+## **Slides**
+
+{% embed url="https://docs.google.com/presentation/d/1HLENzutkGrPvfDD9WOu58ML5lOPE7-WkTTeK\_heGpIw/edit?usp=sharing" %}
+
+## **Video**
 
 {% embed url="https://youtu.be/ytzm6IQ34i8" %}
 

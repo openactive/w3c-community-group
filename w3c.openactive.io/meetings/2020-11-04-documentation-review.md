@@ -1,6 +1,6 @@
 # 2020-11-04 - Documentation Review
 
-**Summary**
+## **Summary**
 
 Documentation Review
 
@@ -9,7 +9,13 @@ Documentation Review
 * GitHub repositories
 * Open booking SDK
 
-**Video**
+## **Slides**
 
-\*\*\*\*[https://youtu.be/ZKnSNpHKi2E](https://youtu.be/ZKnSNpHKi2E)
+{% embed url="https://docs.google.com/presentation/d/1MeOn-CYMMGWZNDm8ALQbToTwtTsvNrA4kcguPxJm1Sw/edit?usp=sharing" %}
+
+## **Video**
+
+{% embed url="https://youtu.be/ZKnSNpHKi2E" %}
+
+
 

@@ -1,6 +1,6 @@
 # 2020-04-08 - Wrapping Up Virtual Events
 
-_**Summary**_
+## **Summary**
 
 * Refining earlier proposal
   * Guidance for virtual and on-demand events
@@ -8,7 +8,11 @@ _**Summary**_
 * New
   * Donation payment URL
 
-_**Video**_
+## **Slides**
+
+{% embed url="https://docs.google.com/presentation/d/1M5VfU6WjsUML-Cdlr0vdbiir0wK89uWJaTKqX5h6f54/edit?usp=sharing" %}
+
+## **Video**
 
 {% embed url="https://youtu.be/3Riny8zSvAI" %}
 

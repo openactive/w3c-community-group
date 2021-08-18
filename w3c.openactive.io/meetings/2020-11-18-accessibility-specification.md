@@ -1,13 +1,17 @@
 # 2020-11-18 - Accessibility Specification
 
-**Summary**
+## **Summary**
 
 Accessibility Specification
 
 * Proposal
 * Modelling
 
-**Video**
+## **Slides**
+
+{% embed url="https://docs.google.com/presentation/d/1PUq2HBAbYqzHYa5tCfHOLwFkAUyENqDSfw4F352ZYwU/edit?usp=sharing" %}
+
+## **Video**
 
 {% embed url="https://youtu.be/DmJ3dnPruZ0" %}
 

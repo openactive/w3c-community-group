@@ -1,10 +1,9 @@
 # 2020-09-09 - The Data Set Site Specification cont..
 
-**Summary**
+## **Summary**
 
-The Data Set Site Specification cont..
+Discussed in the W3C calls of 15th July and 26th August
 
-* Discussed in the W3C calls of 15th July and 26th August
 * Resolved \(?\) issues
   * Different feed types
   * Data catalog specification
@@ -15,7 +14,11 @@ The Data Set Site Specification cont..
   * Feature assertion
   * Status codes
 
-**Video**
+## **Slides**
+
+{% embed url="https://docs.google.com/presentation/d/1egCGs1uJFOBGgXeepwSESr1T4ETSUgEprn22vx9OZdM/edit?usp=sharing" %}
+
+## **Video**
 
 {% embed url="https://youtu.be/P3aBr-FjY2M" %}
 

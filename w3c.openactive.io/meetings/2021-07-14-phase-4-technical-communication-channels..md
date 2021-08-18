@@ -1,6 +1,6 @@
 # 2021-07-14 - Phase 4 Technical Communication Channels.
 
-**Summary**
+## **Summary**
 
 Discussion focused on phase 4 technical communication channels
 
@@ -8,11 +8,11 @@ Discussion focused on phase 4 technical communication channels
 * Implementers’ Forum
 * Tech Drop-in
 
-**Slides**
+## **Slides**
 
-{% file src="../.gitbook/assets/2021-07-14-community-group-hangout-public.pptx.jpg-1.jpg" caption="W3C Community Group Hangout  2021-07-14" %}
+{% embed url="https://docs.google.com/presentation/d/1CKUjodz\_SatgiXrcDtQPFUxFgem1wDOQSB41mkrpXHE/edit?usp=sharing" %}
 
-**Video**
+## **Video**
 
 {% embed url="https://youtu.be/oqqELbIMKYs" %}
 
