@@ -1,6 +1,6 @@
 # 2021-06-30 - Phase 3 Summary
 
-**Summary**
+## **Summary**
 
 Phase 3 Summary
 
@@ -11,13 +11,11 @@ Phase 3 Summary
 * Issues to be expedited
 * Issues needing further exploration
 
-**Slides**
+## **Slides**
 
 {% embed url="https://docs.google.com/presentation/d/1Ms9qo5nlggtEtPDd9QaQZBJWzUFpYDCY\_fPoWfmq\_wA/edit\#slide=id.p3" %}
 
-**Video**
+## **Video**
 
 {% embed url="https://youtu.be/XTZo\_wcNDmQ" %}
-
-
 
