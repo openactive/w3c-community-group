@@ -1,4 +1,4 @@
-# 2021-07-14 - Phase 4 Technical Communication Channels.
+# 2021-07-14 - Phase 4 Technical Communication Channels
 
 ## **Summary**
 

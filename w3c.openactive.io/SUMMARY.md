@@ -7,7 +7,7 @@
 
 ## Meetings
 
-* [2021-07-14 - Phase 4 Technical Communication Channels.](meetings/2021-07-14-phase-4-technical-communication-channels..md)
+* [2021-07-14 - Phase 4 Technical Communication Channels](meetings/2021-07-14-phase-4-technical-communication-channels..md)
 * [2021-06-30 - Phase 3 Summary](meetings/2021-06-30-phase-3-summary.md)
 * [2021-05-26 - Facility Types](meetings/2021-05-26-facility-types.md)
 * [2021-04-07 - Updates to the Opportunity specification](meetings/2021-04-07-updates-to-the-opportunity-specification.md)
