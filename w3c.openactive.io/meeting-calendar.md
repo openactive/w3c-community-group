@@ -2,8 +2,7 @@
 
 ## Future Agendas
 
-* **14 July 2021** Phase Four Communication Channels
-* **15 Sept 2021** Membership and the Open Booking API
+* **29 Sept 2021 2-3:30pm** Membership and the Open Booking API
 
 ## **Meetings Dial-in Details**
 
