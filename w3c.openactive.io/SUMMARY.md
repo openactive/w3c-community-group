@@ -7,6 +7,7 @@
 
 ## Meetings
 
+* [2021-09-29 - Memberships](meetings/untitled.md)
 * [2021-09-29 - Requirements for the Membership Proposal](meetings/2021-09-29-requirements-for-the-membership-proposal.md)
 * [2021-07-14 - Phase 4 Technical Communication Channels](meetings/2021-07-14-phase-4-technical-communication-channels..md)
 * [2021-06-30 - Phase 3 Summary](meetings/2021-06-30-phase-3-summary.md)
