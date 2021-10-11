@@ -2,12 +2,12 @@
 
 ## Summary
 
-The focus of the call was the proposal for dealing with memberships. As the proposal is complex and addresses multiple inter-related concerns \(including account management, barcodes, and entitlement pricing\), the purpose of the discussion was to ensure that requirements have been adequately specified.
+The focus of the call was the proposal for dealing with memberships. As the proposal is complex and addresses multiple inter-related concerns (including account management, barcodes, and entitlement pricing), the purpose of the discussion was to ensure that requirements have been adequately specified.
 
 Relevant documents are:
 
 * the [Membership proposal](https://docs.google.com/document/d/1mjmb-si95H_YK9qeNIhyTBfstGI-2NPAycz0y78GYGc/edit#) itself
-* the [high-level requirements](https://docs.google.com/document/d/1vIz6vzM44d7wB9L2r2Q04Fv6bHdFZPZ-4D2Oot_xSP0/edit#) outline
+* the revised [high-level requirements](https://docs.google.com/document/d/1pb6DTu6cdZDHK\_4eSIIv3M3gyStD65Xg9irn8KTtBWo/edit#heading=h.mtanw1ypij6l) outline
 
 ## Slides
 
@@ -17,9 +17,7 @@ Relevant documents are:
 
 ## Video
 
-{% embed url="https://www.youtube.com/watch?v=qEfrnBFG-CA&ab\_channel=OpenActive" %}
-
-
+{% embed url="https://www.youtube.com/watch?v=qEfrnBFG-CA&ab_channel=OpenActive" %}
 
 
 
