@@ -4,9 +4,11 @@
 * [Join the group](https://www.w3.org/community/openactive/)
 * [Upcoming Meetings](meeting-calendar.md)
 * [Key Discussions](key-discussions.md)
+* [Technical Working Group (Memberships)](technical-working-group-memberships.md)
 
 ## Meetings
 
+* [2021-10-27 - Terminology in the Membership Proposal](meetings/2021-10-27-terminology-in-the-membership-proposal.md)
 * [2021-09-29 - Requirements for the Membership Proposal](meetings/2021-09-29-requirements-for-the-membership-proposal.md)
 * [2021-07-14 - Phase 4 Technical Communication Channels](meetings/2021-07-14-phase-4-technical-communication-channels..md)
 * [2021-06-30 - Phase 3 Summary](meetings/2021-06-30-phase-3-summary.md)
@@ -18,7 +20,7 @@
 * [2020-10-07 - Schedules](meetings/2020-10-07-schedules.md)
 * [2020-09-23 - 1:1 Coaching Sessions](meetings/2020-09-23-1-1-coaching-sessions.md)
 * [2020-09-09 - The Dataset Site Specification cont..](meetings/2020-09-09-the-dataset-site-specification-cont...md)
-* [2020-08-26 - Dataset Site Specification \(cont.\)](meetings/2020-08-26-dataset-site-specification-cont..md)
+* [2020-08-26 - Dataset Site Specification (cont.)](meetings/2020-08-26-dataset-site-specification-cont..md)
 * [2020-07-15 - Dataset Site Specification](meetings/2020-07-15-dataset-site-specification.md)
 * [2020-07-01 - Opportunity API](meetings/2020-07-01-opportunity-api.md)
 * [2020-06-17 - Improving the RPDE specification](meetings/2020-06-17-improving-the-rpde-specification.md)
@@ -88,4 +90,3 @@
 * [2017-02-22 - Modelling Events, Activities](meetings/2017-02-22-modelling-events-activities.md)
 * [2017-01-25 - Initial draft model](meetings/2017-01-25-initial-draft-model.md)
 * [2016-12-07 - Introductions](meetings/2016-12-07-introductions.md)
-
