@@ -13,9 +13,8 @@ Phase 3 Summary
 
 ## **Slides**
 
-{% embed url="https://docs.google.com/presentation/d/1Ms9qo5nlggtEtPDd9QaQZBJWzUFpYDCY\_fPoWfmq\_wA/edit\#slide=id.p3" %}
+{% embed url="https://docs.google.com/presentation/d/1Ms9qo5nlggtEtPDd9QaQZBJWzUFpYDCY_fPoWfmq_wA/edit#slide=id.p3" %}
 
 ## **Video**
 
-{% embed url="https://youtu.be/XTZo\_wcNDmQ" %}
-
+{% embed url="https://youtu.be/XTZo_wcNDmQ" %}

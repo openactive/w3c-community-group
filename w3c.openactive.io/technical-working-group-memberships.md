@@ -6,4 +6,4 @@ It should be noted, however, that the terms of reference and criteria of members
 
 To view the call schedule and for instructions how to join, see the OpenActive [calendar](https://calendar.google.com/calendar/u/0?cid=b3BlbmFjdGl2ZS5pb182NDVraGk0NWJqaGNlMDZvc3FkbHM5dTkwMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 
-Pages with slides, recordings, and notes from the calls can be found under the 'Meetings - TWG' heading in the left-hand column.
+Pages with slides, recordings, and notes from the calls can be found under the 'Meetings - Technical Working Group' heading in the left-hand column.

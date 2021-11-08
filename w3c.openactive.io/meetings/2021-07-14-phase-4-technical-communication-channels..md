@@ -10,11 +10,10 @@ Discussion focused on phase 4 technical communication channels
 
 ## **Slides**
 
-{% embed url="https://docs.google.com/presentation/d/1CKUjodz\_SatgiXrcDtQPFUxFgem1wDOQSB41mkrpXHE/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/presentation/d/1CKUjodz_SatgiXrcDtQPFUxFgem1wDOQSB41mkrpXHE/edit?usp=sharing" %}
 
 ## **Video**
 
 {% embed url="https://youtu.be/oqqELbIMKYs" %}
 
-\*\*\*\*
-
+****
