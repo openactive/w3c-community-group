@@ -9,6 +9,7 @@
 ## Meetings (2021) <a href="meetings" id="meetings"></a>
 
 * [2021-10-27 - Terminology in the Membership Proposal](meetings/2021-10-27-terminology-in-the-membership-proposal.md)
+* [2021-10-13 - Membership Proposal Review](meetings/2021-10-13-membership-proposal-review.md)
 * [2021-09-29 - Requirements for the Membership Proposal](meetings/2021-09-29-requirements-for-the-membership-proposal.md)
 * [2021-07-14 - Phase 4 Technical Communication Channels](meetings/2021-07-14-phase-4-technical-communication-channels..md)
 * [2021-06-30 - Phase 3 Summary](meetings/2021-06-30-phase-3-summary.md)
