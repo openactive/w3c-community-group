@@ -2,9 +2,9 @@
 
 ## Summary
 
-The topic of the call is terminology in the membership proposal.&#x20;
+The topic of the call is terminology in the [membership proposal](https://docs.google.com/document/d/1mjmb-si95H\_YK9qeNIhyTBfstGI-2NPAycz0y78GYGc/edit#).&#x20;
 
-A more detailed summary of the conversation can be found in the call notes.
+A more detailed summary of the conversation can be found in the [Call Notes](https://docs.google.com/document/d/17ZgcSk7iVNgioo6-wolKNMEJEPTQQbvTtVwFxJ-iyS8/edit?usp=sharing).
 
 ## Slides
 
