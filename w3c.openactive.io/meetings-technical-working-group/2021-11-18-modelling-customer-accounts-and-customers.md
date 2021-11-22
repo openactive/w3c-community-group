@@ -14,4 +14,6 @@ A more detailed summary of the topics discussed can be found in the Call Notes.
 
 {% embed url="https://docs.google.com/presentation/d/1ZC2DO2punUoo_ZpOgVnC1ci5WqPwxjDrQXwGkU5oTcQ/edit?usp=sharing" %}
 
-## VideomS
+## Video
+
+{% embed url="https://youtu.be/PpNft7LZDcc" %}
