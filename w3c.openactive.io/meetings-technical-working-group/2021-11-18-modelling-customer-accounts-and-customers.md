@@ -8,7 +8,7 @@ Topics covered in this call include:
 * the Customer and CustomerAccount models described in Appendix C
 * mechanisms for unblocking customer accounts and bookings
 
-A more detailed summary of the topics discussed can be found in the Call Notes.
+A more detailed summary of the topics discussed can be found in the [Call Notes](https://docs.google.com/document/d/1yCUI577uB2ktdcUzLtwgTZz6fqWTvTMkNNaRAjyTg-k/edit?usp=sharing).
 
 ## Slides
 
