@@ -24,6 +24,7 @@
 
 ## Meetings - Technical Working Group
 
+* [2021-11-25 - Modelling Dependant Accounts](meetings-technical-working-group/2021-11-25-modelling-dependant-accounts.md)
 * [2021-11-18 - Modelling Customer Accounts and Customers](meetings-technical-working-group/2021-11-18-modelling-customer-accounts-and-customers.md)
 * [2021-11-11 - Terminology; Sections 1 & 2; Appendices A\&B](meetings-technical-working-group/2021-11-11-terminology-sections-1-and-2-appendices-a-and-b.md)
 * [2021-11-04 - Terminology](meetings-technical-working-group/2021-11-04-terminology.md)
