@@ -1,9 +1,3 @@
----
-description: >-
-  Further discussion of issues arising from the first implementation of the
-  facilities model at Fusion Lifestyle
----
-
 # 2018-06-20 - Facilities
 
 ## Summary
@@ -20,9 +14,9 @@ There are some additional requirements, e.g. for booking longer slots and adjace
 
 Our current priority is to move forward to allow the publication of opportunities to use facilities. When reviewing the updates to the specification, the relevant sections are:
 
-* [Overview of model](https://www.openactive.io/modelling-opportunity-data/EditorsDraft/#facility-use-and-slots) 
-* [Slots](https://www.openactive.io/modelling-opportunity-data/EditorsDraft/#describing-slots-code-oa-slot-code-) 
-* [FacilityUse](https://www.openactive.io/modelling-opportunity-data/EditorsDraft/#describing-facility-use-code-oa-facilityuse-code-code-oa-individualfacilityuse-code-) 
+* [Overview of model](https://www.openactive.io/modelling-opportunity-data/EditorsDraft/#facility-use-and-slots)&#x20;
+* [Slots](https://www.openactive.io/modelling-opportunity-data/EditorsDraft/#describing-slots-code-oa-slot-code-)&#x20;
+* [FacilityUse](https://www.openactive.io/modelling-opportunity-data/EditorsDraft/#describing-facility-use-code-oa-facilityuse-code-code-oa-individualfacilityuse-code-)&#x20;
 
 Thanks to everyone for effort to get us to this point. Looking forward to getting this released so we can move forward with some of the other proposals.
 
@@ -33,4 +27,3 @@ Thanks to everyone for effort to get us to this point. Looking forward to gettin
 ## Video
 
 {% embed url="https://youtu.be/suCiaN5uS4Q" %}
-

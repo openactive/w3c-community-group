@@ -1,9 +1,3 @@
----
-description: >-
-  GetTheData demo, and a chat about ageRange, genderRestriction and amenities;
-  and an update on booking
----
-
 # 2018-03-28 - GetTheData, ageRange, genderRestriction, amenities
 
 ## Summary

@@ -1,10 +1,3 @@
----
-description: >-
-  Virtual events and activities, e.g. events that don't take place at a specific
-  location, or at a specific time. We also covered a quick update on booking and
-  the new governance processes.
----
-
 # 2018-04-11 - Virtual Events, Booking, Governance
 
 ## Summary

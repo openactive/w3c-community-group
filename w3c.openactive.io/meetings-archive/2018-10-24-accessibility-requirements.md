@@ -56,7 +56,7 @@ We asked what what other organisations are currently doing:
 1. Izy & Cecilia (Sport England) to touch base with Kirsty (Disability Rights) & Michelle (Richmond Group of Charities) as well as Activity Alliance and work out what might be best re: user testing/consultation with disability groups - and then Izy to feedback to the group.
 2. The next call for the subject will be to review the results of that.
 
-## ** Slides **
+## &#x20;**Slides**&#x20;
 
 {% embed url="https://docs.google.com/presentation/d/1zYyz3vS8xegMI9Tt_q9tCciqseRns4VYPHtw8vQNlu0/edit#slide=id.p3" %}
 

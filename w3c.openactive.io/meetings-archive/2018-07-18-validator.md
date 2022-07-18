@@ -1,9 +1,3 @@
----
-description: >-
-  Proposed changes to the Modelling Opportunity data specification to tighten up
-  the validation of a number of properties.
----
-
 # 2018-07-18 - Validator
 
 ## Summary

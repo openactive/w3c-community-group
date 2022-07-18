@@ -1,16 +1,10 @@
----
-description: >-
-  The main discussion was around the revised proposal for the handling of
-  Facilities
----
-
 # 2018-02-28 - Facilities, Booking, Validation
 
 ## **Summary**
 
 ### **Facilities**
 
-I discussed a slightly revised proposal around handling of Facilities. The changes were mostly around how to approach the modelling. The revised proposal is based on describing opportunities to book facilities \(including equipment\), rather than describing the facilities themselves.
+I discussed a slightly revised proposal around handling of Facilities. The changes were mostly around how to approach the modelling. The revised proposal is based on describing opportunities to book facilities (including equipment), rather than describing the facilities themselves.
 
 There's a brief summary in the slides, but I've also documented the proposal on github here:
 
@@ -24,7 +18,7 @@ I aim to publish a draft of the 1.1 opportunity model specification tomorrow.
 
 The latest working draft of the booking API that the early implementers are testing can be found here:
 
-[https://docs.google.com/document/d/1QMj\_w2tuOvxRfctu70JjSv1WgFKvNfU5URCmIB4sSu8/edit?usp=sharing](https://docs.google.com/document/d/1QMj_w2tuOvxRfctu70JjSv1WgFKvNfU5URCmIB4sSu8/edit?usp=sharing)
+[https://docs.google.com/document/d/1QMj\_w2tuOvxRfctu70JjSv1WgFKvNfU5URCmIB4sSu8/edit?usp=sharing](https://docs.google.com/document/d/1QMj\_w2tuOvxRfctu70JjSv1WgFKvNfU5URCmIB4sSu8/edit?usp=sharing)
 
 Please take a look and add you comments.
 
@@ -41,4 +35,3 @@ We'll discuss this in a future call.
 ## Video
 
 {% embed url="https://youtu.be/sSYAcbFn6uk" %}
-

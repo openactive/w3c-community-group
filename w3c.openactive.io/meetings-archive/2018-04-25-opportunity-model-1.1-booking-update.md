@@ -1,9 +1,3 @@
----
-description: >-
-  Pending changes to the modelling opportunity data specification, and a quick
-  update on booking
----
-
 # 2018-04-25 - Opportunity Model, Booking
 
 ## Summary
