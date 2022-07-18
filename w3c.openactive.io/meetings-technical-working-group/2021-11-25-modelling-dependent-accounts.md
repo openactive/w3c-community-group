@@ -1,8 +1,8 @@
-# 2021-11-25 - Modelling Dependant Accounts
+# 2021-11-25 - Modelling Dependent Accounts
 
 ## Summary
 
-The focus of the call was on dependant accounts and how to model these. Additional points of discussion were how to model access codes and the appropriate treatment of organisations as customers.
+The focus of the call was on dependent accounts and how to model these. Additional points of discussion were how to model access codes and the appropriate treatment of organisations as customers.
 
 A more detail summary can be found in the [Call Notes](https://docs.google.com/document/d/1Yu9ZeF\_6Bzgm6mqxaHlYglv0eJo1oa5vbmKfAESlB8s/edit?usp=sharing).
 

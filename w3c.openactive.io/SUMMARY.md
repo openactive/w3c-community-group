@@ -36,7 +36,7 @@
 * [2022-01-13 - Facility Booking, Customer Age, Sections 9 & 10, Appendices D & G](meetings-technical-working-group/2022-01-13-facility-booking-customer-age-sections-9-and-10-appendices-d-and-g.md)
 * [2022-01-06 - Sections 7 & 8, Appendices E & F](meetings-technical-working-group/2022-01-06-sections-7-and-8-appendices-e-and-f.md)
 * [2021-12-02 - Appendices C6, C7, C9, D3, D4](meetings-technical-working-group/2021-12-02-appendices-c6-c7-c9-d3-d4.md)
-* [2021-11-25 - Modelling Dependant Accounts](meetings-technical-working-group/2021-11-25-modelling-dependant-accounts.md)
+* [2021-11-25 - Modelling Dependent Accounts](meetings-technical-working-group/2021-11-25-modelling-dependent-accounts.md)
 * [2021-11-18 - Modelling Customer Accounts and Customers](meetings-technical-working-group/2021-11-18-modelling-customer-accounts-and-customers.md)
 * [2021-11-11 - Terminology; Sections 1 & 2; Appendices A\&B](meetings-technical-working-group/2021-11-11-terminology-sections-1-and-2-appendices-a-and-b.md)
 * [2021-11-04 - Terminology](meetings-technical-working-group/2021-11-04-terminology.md)
