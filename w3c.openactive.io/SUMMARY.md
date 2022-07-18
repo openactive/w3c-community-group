@@ -12,7 +12,7 @@
 * [2022-03-02 - Safeguarding Requirements](meetings/2022-03-02-safeguarding-requirements.md)
 * [2022-02-02 - Block Bookings](meetings/2022-02-02-block-bookings.md)
 * [2021-12-06 - Social Prescribing Attributes, Places, and Block Bookings](meetings/2021-12-06-social-prescribing-attributes-places-and-block-bookings.md)
-* [2021-11-24 - Dependent Accounts](meetings/2021-11-24-dependent-accounts.md)
+* [2021-11-24 - Dependent Accounts](meetings/2021-11-24-dependant-accounts.md)
 * [2021-11-10 - Access Pass Requirements](meetings/2021-11-10-access-pass-requirements.md)
 * [2021-10-27 - Terminology in the Membership Proposal](meetings/2021-10-27-terminology-in-the-membership-proposal.md)
 * [2021-10-13 - Membership Proposal Review](meetings/2021-10-13-membership-proposal-review.md)
@@ -40,7 +40,6 @@
 * [2021-11-18 - Modelling Customer Accounts and Customers](meetings-technical-working-group/2021-11-18-modelling-customer-accounts-and-customers.md)
 * [2021-11-11 - Terminology; Sections 1 & 2; Appendices A\&B](meetings-technical-working-group/2021-11-11-terminology-sections-1-and-2-appendices-a-and-b.md)
 * [2021-11-04 - Terminology](meetings-technical-working-group/2021-11-04-terminology.md)
-* [Page 1](meetings-technical-working-group/page-1.md)
 
 ## Meetings Archive
 

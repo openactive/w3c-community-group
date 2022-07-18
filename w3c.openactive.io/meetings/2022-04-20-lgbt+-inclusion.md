@@ -2,7 +2,7 @@
 
 ## Summary
 
-A discussion of modifications needed to the Opportunity specification to better support LGBT+ inclusion.
+A discussion of modifications needed to the Opportunity specification and the groups who would need to be consulted to better support LGBT+ inclusion.
 
 ## Slides
 

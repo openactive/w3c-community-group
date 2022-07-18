@@ -1,4 +1,4 @@
-# 2021-11-24 - Dependant Accounts
+# 2021-11-24 - Dependent Accounts
 
 ## Summary
 
