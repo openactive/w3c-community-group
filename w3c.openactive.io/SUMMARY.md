@@ -30,7 +30,8 @@
 ## Meetings - Technical Working Group
 
 * [2022-07-07 - Final Review and Signoff](meetings-technical-working-group/2022-07-07-final-review-and-signoff.md)
-* [2022-06-09 - Specification Walkthrough, pt. 2](meetings-technical-working-group/2022-06-09-specification-walkthrough-pt.-2.md)
+* [2022-06-09 - Preliminary Review, pt. 2](meetings-technical-working-group/2022-06-09-preliminary-review-pt.-2.md)
+* [Preliminary Review, pt. 1](meetings-technical-working-group/preliminary-review-pt.-1.md)
 * [2022-05-26 - Specification Walkthrough, pt. 1](meetings-technical-working-group/2022-05-26-specification-walkthrough-pt.-1.md)
 * [2022-01-27 - Worked examples of dependent account handling](meetings-technical-working-group/2022-01-27-worked-examples-of-dependent-account-handling.md)
 * [2022-01-20 - Dependent Accounts, Updating Personal Data, and Late Cancellation Policies](meetings-technical-working-group/2022-01-20-dependent-accounts-updating-personal-data-and-late-cancellation-policies.md)
