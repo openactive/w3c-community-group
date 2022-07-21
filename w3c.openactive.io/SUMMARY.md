@@ -20,7 +20,7 @@
 * [2021-09-29 - Requirements for the Membership Proposal](meetings/2021-09-29-requirements-for-the-membership-proposal.md)
 * [2021-07-14 - Phase 4 Technical Communication Channels](meetings/2021-07-14-phase-4-technical-communication-channels..md)
 * [2021-06-30 - Phase 3 Summary](meetings/2021-06-30-phase-3-summary.md)
-* [2021-06-02](meetings/2021-06-02.md)
+* [2021-06-02 - Facility Types, pt. 2](meetings/2021-06-02-facility-types-pt.-2.md)
 * [2021-05-26 - Facility Types](meetings/2021-05-26-facility-types.md)
 * [2021-04-07 - Updates to the Opportunity specification](meetings/2021-04-07-updates-to-the-opportunity-specification.md)
 
