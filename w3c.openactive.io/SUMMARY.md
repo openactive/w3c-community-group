@@ -6,7 +6,7 @@
 * [Key Discussions](key-discussions.md)
 * [Technical Working Group (Memberships)](technical-working-group-memberships.md)
 
-## Meetings (2021-22) <a href="#meetings" id="meetings"></a>
+## Community Group Meetings (2021-22) <a href="#meetings" id="meetings"></a>
 
 * [2022-06-08 - Accessibility](meetings/2022-06-08-accessibility.md)
 * [2022-04-20 - LGBT+ Inclusion](meetings/2022-04-20-lgbt+-inclusion.md)
