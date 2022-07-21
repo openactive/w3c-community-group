@@ -1,4 +1,4 @@
-# 2022-06-09 - Specification Walkthrough, pt. 2
+# 2022-06-09 - Preliminary Review, pt. 1
 
 ## Summary
 
