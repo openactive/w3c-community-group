@@ -20,6 +20,7 @@
 * [2021-09-29 - Requirements for the Membership Proposal](meetings/2021-09-29-requirements-for-the-membership-proposal.md)
 * [2021-07-14 - Phase 4 Technical Communication Channels](meetings/2021-07-14-phase-4-technical-communication-channels..md)
 * [2021-06-30 - Phase 3 Summary](meetings/2021-06-30-phase-3-summary.md)
+* [2021-06-02](meetings/2021-06-02.md)
 * [2021-05-26 - Facility Types](meetings/2021-05-26-facility-types.md)
 * [2021-04-07 - Updates to the Opportunity specification](meetings/2021-04-07-updates-to-the-opportunity-specification.md)
 
@@ -31,8 +32,8 @@
 
 * [2022-07-07 - Final Review and Signoff](meetings-technical-working-group/2022-07-07-final-review-and-signoff.md)
 * [2022-06-23 Spec Finalisation Scheduling](meetings-technical-working-group/2022-06-23-spec-finalisation-scheduling.md)
-* [2022-06-09 - Preliminary Review, pt. 2](meetings-technical-working-group/2022-06-09-preliminary-review-pt.-2.md)
-* [2022-05-26 - Preliminary Review, pt. 1](meetings-technical-working-group/2022-05-26-preliminary-review-pt.-1.md)
+* [2022-06-09 - Preliminary Review, pt. 2](meetings-technical-working-group/2022-06-09-specification-walkthrough-pt.-2.md)
+* [2022-05-26 - Preliminary Review, pt. 1](meetings-technical-working-group/2022-05-26-specification-walkthrough-pt.-1.md)
 * [2022-01-27 - Worked examples of dependent account handling](meetings-technical-working-group/2022-01-27-worked-examples-of-dependent-account-handling.md)
 * [2022-01-20 - Dependent Accounts, Updating Personal Data, and Late Cancellation Policies](meetings-technical-working-group/2022-01-20-dependent-accounts-updating-personal-data-and-late-cancellation-policies.md)
 * [2022-01-13 - Facility Booking, Customer Age, Sections 9 & 10, Appendices D & G](meetings-technical-working-group/2022-01-13-facility-booking-customer-age-sections-9-and-10-appendices-d-and-g.md)
