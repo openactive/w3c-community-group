@@ -6,7 +6,7 @@
 * [Key Discussions](key-discussions.md)
 * [Technical Working Group (Memberships)](technical-working-group-memberships.md)
 
-## Meetings (2021) <a href="#meetings" id="meetings"></a>
+## Meetings (2021-22) <a href="#meetings" id="meetings"></a>
 
 * [2022-06-08 - Accessibility](meetings/2022-06-08-accessibility.md)
 * [2022-04-20 - LGBT+ Inclusion](meetings/2022-04-20-lgbt+-inclusion.md)
@@ -39,7 +39,7 @@
 * [2022-01-13 - Facility Booking, Customer Age, Sections 9 & 10, Appendices D & G](meetings-technical-working-group/2022-01-13-facility-booking-customer-age-sections-9-and-10-appendices-d-and-g.md)
 * [2022-01-06 - Sections 7 & 8, Appendices E & F](meetings-technical-working-group/2022-01-06-sections-7-and-8-appendices-e-and-f.md)
 * [2021-12-09 - Appendices C6, C7, C9, D3, D4, continued](meetings-technical-working-group/2021-12-09-appendices-c6-c7-c9-d3-d4-continued.md)
-* [2021-12-02 - Appendices C6, C7, C9, D3, D4, D5; Sections 5 & 6](meetings-technical-working-group/2021-12-02-appendices-c6-c7-c9-d3-d4-d5-sections-5-and-6.md)
+* [2021-12-02 - Appendices C6, C7, C9, D3, D4, D5; Sections 5 & 6](meetings-technical-working-group/2021-12-02-appendices-c6-c7-c9-d3-d4.md)
 * [2021-11-25 - Modelling Dependent Accounts](meetings-technical-working-group/2021-11-25-modelling-dependant-accounts.md)
 * [2021-11-18 - Modelling Customer Accounts and Customers](meetings-technical-working-group/2021-11-18-modelling-customer-accounts-and-customers.md)
 * [2021-11-11 - Terminology; Sections 1 & 2; Appendices A\&B](meetings-technical-working-group/2021-11-11-terminology-sections-1-and-2-appendices-a-and-b.md)
