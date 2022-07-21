@@ -30,9 +30,9 @@
 ## Meetings - Technical Working Group
 
 * [2022-07-07 - Final Review and Signoff](meetings-technical-working-group/2022-07-07-final-review-and-signoff.md)
-* [2022-06-23 Preliminary Review, pt. 2](meetings-technical-working-group/2022-06-23-preliminary-review-pt.-2.md)
-* [2022-06-09 - Preliminary Review, pt. 1](meetings-technical-working-group/2022-06-09-preliminary-review-pt.-1.md)
-* [2022-05-26 - Specification Walkthrough](meetings-technical-working-group/2022-05-26-specification-walkthrough.md)
+* [2022-06-23 Spec Finalisation Scheduling](meetings-technical-working-group/2022-06-23-spec-finalisation-scheduling.md)
+* [2022-06-09 - Preliminary Review, pt. 2](meetings-technical-working-group/2022-06-09-preliminary-review-pt.-2.md)
+* [2022-05-26 - Preliminary Review, pt. 1](meetings-technical-working-group/2022-05-26-preliminary-review-pt.-1.md)
 * [2022-01-27 - Worked examples of dependent account handling](meetings-technical-working-group/2022-01-27-worked-examples-of-dependent-account-handling.md)
 * [2022-01-20 - Dependent Accounts, Updating Personal Data, and Late Cancellation Policies](meetings-technical-working-group/2022-01-20-dependent-accounts-updating-personal-data-and-late-cancellation-policies.md)
 * [2022-01-13 - Facility Booking, Customer Age, Sections 9 & 10, Appendices D & G](meetings-technical-working-group/2022-01-13-facility-booking-customer-age-sections-9-and-10-appendices-d-and-g.md)
