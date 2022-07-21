@@ -38,6 +38,7 @@
 * [2022-01-20 - Dependent Accounts, Updating Personal Data, and Late Cancellation Policies](meetings-technical-working-group/2022-01-20-dependent-accounts-updating-personal-data-and-late-cancellation-policies.md)
 * [2022-01-13 - Facility Booking, Customer Age, Sections 9 & 10, Appendices D & G](meetings-technical-working-group/2022-01-13-facility-booking-customer-age-sections-9-and-10-appendices-d-and-g.md)
 * [2022-01-06 - Sections 7 & 8, Appendices E & F](meetings-technical-working-group/2022-01-06-sections-7-and-8-appendices-e-and-f.md)
+* [2021-12-09 - Appendices C6, C7, C9, D3, D4](meetings-technical-working-group/2021-12-09-appendices-c6-c7-c9-d3-d4.md)
 * [2021-12-02 - Appendices C6, C7, C9, D3, D4](meetings-technical-working-group/2021-12-02-appendices-c6-c7-c9-d3-d4.md)
 * [2021-11-25 - Modelling Dependent Accounts](meetings-technical-working-group/2021-11-25-modelling-dependant-accounts.md)
 * [2021-11-18 - Modelling Customer Accounts and Customers](meetings-technical-working-group/2021-11-18-modelling-customer-accounts-and-customers.md)
