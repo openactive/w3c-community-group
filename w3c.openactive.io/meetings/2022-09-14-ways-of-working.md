@@ -8,8 +8,8 @@ Documents discussed are linked in the slides below.
 
 ## Slides
 
-[https://docs.google.com/presentation/d/1t1ZaJpLaZuKk6AfVQ-PnIrd4\_\_PTxtI5ApbafliO8x8/edit?usp=sharing ](https://docs.google.com/presentation/d/1t1ZaJpLaZuKk6AfVQ-PnIrd4\_\_PTxtI5ApbafliO8x8/edit?usp=sharing)
+{% embed url="https://docs.google.com/presentation/d/1t1ZaJpLaZuKk6AfVQ-PnIrd4__PTxtI5ApbafliO8x8/edit?usp=sharing" %}
 
 ## Video
 
-[https://youtu.be/r\_gX5WdWa3I ](https://youtu.be/r\_gX5WdWa3I)
+{% embed url="https://youtu.be/r_gX5WdWa3I" %}
