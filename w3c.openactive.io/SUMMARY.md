@@ -8,6 +8,7 @@
 
 ## Community Group Meetings (2021-22) <a href="#meetings" id="meetings"></a>
 
+* [2022-12-07 Data Quality Reporting](meetings/2022-12-07-data-quality-reporting.md)
 * [2022-11-09 Reporting Data Quality](meetings/2022-11-09-reporting-data-quality.md)
 * [2022-10-26 High Frequency Sessions](meetings/2022-10-26-high-frequency-sessions.md)
 * [2022-10-12 Data Quality in OpenActive](meetings/2022-10-12-data-quality-in-openactive.md)
