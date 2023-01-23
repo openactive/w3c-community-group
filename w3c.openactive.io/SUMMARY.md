@@ -6,8 +6,9 @@
 * [Key Discussions](key-discussions.md)
 * [Technical Working Group (Memberships)](technical-working-group-memberships.md)
 
-## Community Group Meetings (2021-22) <a href="#meetings" id="meetings"></a>
+## Community Group Meetings (2021-23) <a href="#meetings" id="meetings"></a>
 
+* [2023-01-18 Focus for year ahead](meetings/2023-01-18-focus-for-year-ahead.md)
 * [2022-12-07 Data Quality Reporting](meetings/2022-12-07-data-quality-reporting.md)
 * [2022-11-09 Reporting Data Quality](meetings/2022-11-09-reporting-data-quality.md)
 * [2022-10-26 High Frequency Sessions](meetings/2022-10-26-high-frequency-sessions.md)
