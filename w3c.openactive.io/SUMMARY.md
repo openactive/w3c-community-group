@@ -8,6 +8,7 @@
 
 ## Community Group Meetings (2021-23) <a href="#meetings" id="meetings"></a>
 
+* [2023-04-26 Data Quality, Activities and Priorities](meetings/2023-04-26-data-quality-activities-and-priorities.md)
 * [2023-03-29 Facilities and Activities](meetings/2023-03-29-facilities-and-activities.md)
 * [2023-03-01 Data Quality Update](meetings/2023-03-01-data-quality-update.md)
 * [2023-02-15 Active Places](meetings/2023-02-15-active-places.md)
