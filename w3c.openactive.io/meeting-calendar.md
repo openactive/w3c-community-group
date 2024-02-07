@@ -1,8 +1,8 @@
 # Upcoming Meetings
 
-## Future Agendas
+## Meeting Calendar
 
-* **29 Sept 2021 2-3:30pm** Membership and the Open Booking API
+All OpenActive events are publicly accessible via the [OpenActive Google Calendar](https://calendar.google.com/calendar/embed?src=openactive.io\_645khi45bjhce06osqdls9u900%40group.calendar.google.com\&ctz=Europe%2FLondon).
 
 ## **Meetings Dial-in Details**
 
@@ -15,10 +15,4 @@ Meeting ID: 3906833882
 Or Telephone: Dial:
 
 * \+44 (0) 20 3051 2874 Meeting ID: 3906833882
-* \+44 (0) 20 3695 0088 Meeting ID: 3906833882
-
-## Meeting Calendar
-
-All OpenActive events are publicly accessible via the [OpenActive Google Calendar](https://calendar.google.com/calendar/embed?src=openactive.io\_645khi45bjhce06osqdls9u900%40group.calendar.google.com\&ctz=Europe%2FLondon).
-
-\
+* \+44 (0) 20 3695 0088 Meeting ID: 3906833882\
