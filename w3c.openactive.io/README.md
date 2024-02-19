@@ -2,7 +2,7 @@
 
 ## About the group
 
-#### The OpenActive community are working together to improve how systems in the sport and physical activity ecosystem connect. <a href="the-open-data-institute-and-the-openactive-community-are-working-together-to-improve-how-systems-in" id="the-open-data-institute-and-the-openactive-community-are-working-together-to-improve-how-systems-in"></a>
+#### The OpenActive community are working together to improve how systems in the sport and physical activity ecosystem connect. <a href="#the-open-data-institute-and-the-openactive-community-are-working-together-to-improve-how-systems-in" id="the-open-data-institute-and-the-openactive-community-are-working-together-to-improve-how-systems-in"></a>
 
 This discussion takes place in our [W3C Community Group](https://www.w3.org/community/openactive/), where we are developing the standards for opportunity data that will make it easier to publish, find and use. We are at the start of a long term change in the physical activity sector and work in this area is evolving. We welcome you to contribute and join the open conversation by joining our W3C Community Group.
 
@@ -10,7 +10,7 @@ This discussion takes place in our [W3C Community Group](https://www.w3.org/comm
 
 ## How to join the group&#x20;
 
-****[**First click here**](https://www.w3.org/community/openactive/), then click "**JOIN OR LEAVE THIS GROUP**" halfway down the right hand side of the page.
+[**First click here**](https://www.w3.org/community/openactive/), then click "**JOIN OR LEAVE THIS GROUP**" halfway down the right hand side of the page.
 
 Once you have done this be sure to attend our meetings and engage in our GitHub discussions:
 
