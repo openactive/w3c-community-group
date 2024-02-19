@@ -8,6 +8,7 @@
 
 ## Community Group Meetings (2021-23) <a href="#meetings" id="meetings"></a>
 
+* [2023-10-18 OpenActive and Open Referral UK](meetings/2023-10-18-openactive-and-open-referral-uk.md)
 * [2023-06-21 Approaches to maintaining the OpenActive tech infrastructure](meetings/2023-06-21-approaches-to-maintaining-the-openactive-tech-infrastructure.md)
 * [2023-05-24 Data Quality Explorer Demo](meetings/2023-05-24-data-quality-explorer-demo.md)
 * [2023-04-26 Data Quality, Activities and Priorities](meetings/2023-04-26-data-quality-activities-and-priorities.md)
