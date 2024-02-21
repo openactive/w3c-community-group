@@ -16,4 +16,3 @@ Discussion focused on phase 4 technical communication channels
 
 {% embed url="https://youtu.be/oqqELbIMKYs" %}
 
-****

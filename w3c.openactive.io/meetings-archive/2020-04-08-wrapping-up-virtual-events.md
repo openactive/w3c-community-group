@@ -16,7 +16,5 @@
 
 {% embed url="https://www.youtube.com/watch?v=3Riny8zSvAI" %}
 
-\_\_
 
-\_\_
 

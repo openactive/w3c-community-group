@@ -4,7 +4,6 @@
 * [Join the group](https://www.w3.org/community/openactive/)
 * [Upcoming Meetings](meeting-calendar.md)
 * [Key Discussions](key-discussions.md)
-* [Technical Working Group (Memberships)](technical-working-group-memberships.md)
 
 ## Community Group Meetings (2021-24) <a href="#meetings" id="meetings"></a>
 
