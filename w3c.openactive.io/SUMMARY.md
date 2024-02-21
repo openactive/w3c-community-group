@@ -6,7 +6,7 @@
 * [Key Discussions](key-discussions.md)
 * [Technical Working Group (Memberships)](technical-working-group-memberships.md)
 
-## Community Group Meetings (2021-23) <a href="#meetings" id="meetings"></a>
+## Community Group Meetings (2021-24) <a href="#meetings" id="meetings"></a>
 
 * [2024-02-21 Phase 5 Extension and Club Data](meetings/2024-02-21-phase-5-extension-and-club-data.md)
 * [2023-10-18 OpenActive and Open Referral UK](meetings/2023-10-18-openactive-and-open-referral-uk.md)
