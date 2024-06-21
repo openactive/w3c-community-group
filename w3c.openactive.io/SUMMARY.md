@@ -7,6 +7,7 @@
 
 ## Community Group Meetings (2021-24) <a href="#meetings" id="meetings"></a>
 
+* [202405-22 W3C/AEF Show & Tell - Stabilising and improving OpenActive's infrastructure](meetings/202405-22-w3c-aef-show-and-tell-stabilising-and-improving-openactives-infrastructure.md)
 * [2024-02-21 Phase 5 Extension and Club Data](meetings/2024-02-21-phase-5-extension-and-club-data.md)
 * [2023-10-18 OpenActive and Open Referral UK](meetings/2023-10-18-openactive-and-open-referral-uk.md)
 * [2023-06-21 Approaches to maintaining the OpenActive tech infrastructure](meetings/2023-06-21-approaches-to-maintaining-the-openactive-tech-infrastructure.md)
