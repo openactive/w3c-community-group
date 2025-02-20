@@ -14,6 +14,10 @@ Discussion then moves on to:
 * London Sport's experience creating an ORUK feed from OA data.
 * Supporting clubfinder capabilities for National Governing Bodies.
 
+### Slides
+
+{% embed url="https://docs.google.com/presentation/d/1j9ShLSqphw7U8e3DJGihFE7ybuRaHaZOonWkHYGMGvU/edit?usp=sharing" %}
+
 ### Video
 
 {% embed url="https://youtu.be/R1nIfpacnhk" %}
