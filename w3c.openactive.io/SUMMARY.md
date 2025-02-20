@@ -7,6 +7,7 @@
 
 ## Community Group Meetings (2021-24) <a href="#meetings" id="meetings"></a>
 
+* [2025-02-19 Specification Development Plan](meetings/2025-02-19-specification-development-plan.md)
 * [2024-10-23 - Routes Update](meetings/2024-10-23-routes-update.md)
 * [2024-05-22 W3C/AEF Show & Tell - Stabilising and improving OpenActive's infrastructure](meetings/2024-05-22-w3c-aef-show-and-tell-stabilising-and-improving-openactives-infrastructure.md)
 * [March and April 2024 meetings cancelled](meetings/march-and-april-2024-meetings-cancelled.md)
